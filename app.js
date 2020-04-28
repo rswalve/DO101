@@ -1,2 +1,2 @@
-//This is a comment, yo
+//This is a sample feature edition
 console.log("Hello World!\n");
